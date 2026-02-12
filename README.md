@@ -1,6 +1,6 @@
 # Paul Karikari
 
-**Principal Data & AI Solution Architect | Azure Databricks | Financial Services**
+**Principal Engineer & Solution Architect- Data & AI  | Azure Databricks | Financial Services**
 
 [LinkedIn](https://uk.linkedin.com/in/paulkarikari)
 
@@ -13,6 +13,8 @@
 I am the person teams call when a Databricks program is technically promising but operationally fragile.
 
 I design and deliver data and AI platforms that survive real-world pressure: architecture board scrutiny, security controls, audit evidence requests, and production support at 2am. I have built systems for major institutions including NatWest, and I care deeply about making high-stakes platforms dependable, explainable, and repeatable.
+
+I am hands-on in delivery, not just design. I work directly in Databricks, Python, SQL, and Terraform to translate architecture into working pipelines, governed data products, and deployable infrastructure.
 
 My style is practical and transparent. I work closely with architecture, engineering, risk, and control teams to turn complex requirements into clear decisions and shippable delivery plans.
 
@@ -31,17 +33,46 @@ I typically support one of three engagement types:
 
 - `Architecture and readiness assessment`: establish gaps, target state, and a delivery-ready roadmap.
 - `Solution architecture pack delivery`: produce full review-ready artifacts (vision, ADRs, NFRs, controls, operating model, readiness).
-- `Platform delivery acceleration`: convert architecture into implementation across data, infra, and operations.
+- `Platform delivery acceleration`: convert architecture into implementation across data, infra, and operations, including direct engineering support.
 
-## Featured Repositories
+## Case Study Portfolio
 
-| Repo | What it demonstrates | Client relevance |
-|---|---|---|
-| [fraud-detection-platform](https://github.com/paulkarikari/fraud-detection-platform) | End-to-end architecture plus implementation assets | Reference for architecture-to-delivery execution |
-| [cloud-data-platform-modernisation](https://github.com/paulkarikari/cloud-data-platform-modernisation) | Platform modernization blueprint with deployable structure | Useful for enterprise target-state planning |
-| [enterprise-unity-catalog-rollout](https://github.com/paulkarikari/enterprise-unity-catalog-rollout) | Full architecture artifact pack for Unity Catalog rollout | Useful for governance operating model rollout |
-| [fraud-scoring-on-databricks-azure](https://github.com/paulkarikari/fraud-scoring-on-databricks-azure) | Full artifact pack for fraud scoring solution | Useful for risk-aligned architecture documentation |
-| [tier1-bank-risk-reporting](https://github.com/paulkarikari/tier1-bank-risk-reporting) | Full artifact pack for risk reporting | Useful for regulatory reporting architecture |
+Each project below is presented as a practical case study: business problem, architecture approach, and business relevance.
+
+### 1) Fraud Detection Platform
+
+- Repository: [fraud-detection-platform](https://github.com/paulkarikari/fraud-detection-platform)
+- Problem solved: fragmented fraud data pipelines created slow investigation cycles and weak governance traceability.
+- Architecture approach: governed Bronze/Silver/Gold model with explicit control boundaries and ADR-led decision flow.
+- Why it matters: shows architecture-to-delivery leadership for a high-scrutiny fraud domain.
+
+### 2) Cloud Data Platform Modernisation
+
+- Repository: [cloud-data-platform-modernisation](https://github.com/paulkarikari/cloud-data-platform-modernisation)
+- Problem solved: duplicated data integration patterns and inconsistent platform controls across teams.
+- Architecture approach: standardized platform blueprint with governance controls, operating model clarity, and phased modernization strategy.
+- Why it matters: shows enterprise-scale target-state planning and migration structure.
+
+### 3) Enterprise Unity Catalog Rollout
+
+- Repository: [enterprise-unity-catalog-rollout](https://github.com/paulkarikari/enterprise-unity-catalog-rollout)
+- Problem solved: inconsistent access control and stewardship across workspaces and data domains.
+- Architecture approach: enterprise Unity Catalog onboarding model with policy-driven governance, lineage discipline, and phased control rollout.
+- Why it matters: shows how governance operating models are translated into practical platform standards.
+
+### 4) Fraud Scoring on Databricks Azure
+
+- Repository: [fraud-scoring-on-databricks-azure](https://github.com/paulkarikari/fraud-scoring-on-databricks-azure)
+- Problem solved: fraud scoring workloads lacked consistent quality controls and production-grade governance.
+- Architecture approach: domain-specific scoring architecture with quality gates, control-by-design, and clear operating boundaries.
+- Why it matters: shows how scoring workloads can be governed without slowing delivery.
+
+### 5) Tier1 Bank Risk Reporting
+
+- Repository: [tier1-bank-risk-reporting](https://github.com/paulkarikari/tier1-bank-risk-reporting)
+- Problem solved: regulatory risk reporting pipelines were difficult to trust, reconcile, and evidence.
+- Architecture approach: governed risk reporting architecture with explicit ownership, assurance evidence planning, and readiness gates.
+- Why it matters: shows regulatory-grade architecture discipline for tier1 banking reporting.
 
 ## My Decision Framework
 
@@ -71,10 +102,10 @@ This is the pack I use to keep work review-ready and implementation-focused: [so
 
 If you are scaling Azure Databricks in a regulated environment, I can help with:
 
-- architecture definition and review readiness
-- governance and control-by-design
-- implementation acceleration with clear operating boundaries
-- evidence and assurance alignment for high-scrutiny delivery
+- defining target architecture and getting it review-ready for architecture, security, and risk forums
+- embedding governance and controls directly into platform and data workflows
+- accelerating implementation through hands-on Databricks, SQL, Python, and Terraform delivery
+- aligning evidence and assurance so high-scrutiny delivery remains defensible in production
 
 ## Let's Connect
 

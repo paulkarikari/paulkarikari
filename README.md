@@ -39,8 +39,6 @@ I typically support one of three engagement types:
 |---|---|---|
 | [fraud-detection-platform](https://github.com/paulkarikari/fraud-detection-platform) | End-to-end architecture plus implementation assets | Reference for architecture-to-delivery execution |
 | [cloud-data-platform-modernisation](https://github.com/paulkarikari/cloud-data-platform-modernisation) | Platform modernization blueprint with deployable structure | Useful for enterprise target-state planning |
-| [api-integration-platform](https://github.com/paulkarikari/api-integration-platform) | Governed API ingestion and integration pattern | Useful for controlled integration modernization |
-| [healthcare-analytics-lakehouse](https://github.com/paulkarikari/healthcare-analytics-lakehouse) | Domain-adapted governed lakehouse pattern | Demonstrates cross-domain transferability |
 | [enterprise-unity-catalog-rollout](https://github.com/paulkarikari/enterprise-unity-catalog-rollout) | Full architecture artifact pack for Unity Catalog rollout | Useful for governance operating model rollout |
 | [fraud-scoring-on-databricks-azure](https://github.com/paulkarikari/fraud-scoring-on-databricks-azure) | Full artifact pack for fraud scoring solution | Useful for risk-aligned architecture documentation |
 | [tier1-bank-risk-reporting](https://github.com/paulkarikari/tier1-bank-risk-reporting) | Full artifact pack for risk reporting | Useful for regulatory reporting architecture |

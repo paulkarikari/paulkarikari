@@ -111,7 +111,3 @@ If you are scaling Azure Databricks in a regulated environment, I can help with:
 
 - LinkedIn: [paulkarikari](https://uk.linkedin.com/in/paulkarikari)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulkarikari&show_icons=true&hide_title=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulkarikari&layout=compact&langs_count=10)

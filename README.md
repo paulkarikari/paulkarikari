@@ -82,7 +82,7 @@ My architecture decisions are rooted in established frameworks, then adapted for
 
 I wrote my principles this way on purpose: they are practical enough for engineering teams to apply day-to-day, but structured enough for architecture, risk, and audit stakeholders to trust. They help me make trade-offs explicit and consistent across platform, data, controls, and operating model decisions.
 
-This is the foundation I return to on every engagement: [principles](https://github.com/paulkarikari/principles).
+This is the foundation I return to on every engagement: [principles](https://github.com/paulkarikari/principles#readme).
 
 ### Artifacts That Turn Strategy Into Delivery
 
@@ -110,3 +110,8 @@ If you are scaling Azure Databricks in a regulated environment, I can help with:
 ## Let's Connect
 
 - LinkedIn: [paulkarikari](https://uk.linkedin.com/in/paulkarikari)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulkarikari&show_icons=true&hide_title=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulkarikari&layout=compact&langs_count=10)

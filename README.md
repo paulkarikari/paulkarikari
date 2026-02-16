@@ -35,9 +35,9 @@ I typically support one of three engagement types:
 - `Solution architecture pack delivery`: produce full review-ready artifacts (vision, ADRs, NFRs, controls, operating model, readiness).
 - `Platform delivery acceleration`: convert architecture into implementation across data, infra, and operations, including direct engineering support.
 
-## Case Study Portfolio
+## Case Study
 
-Each project below is presented as a practical case study: business problem, architecture approach, and business relevance.
+The project below is presented as a practical case study: business problem, architecture approach, and business relevance.
 
 ### 1) Fraud Detection Platform
 
@@ -46,33 +46,6 @@ Each project below is presented as a practical case study: business problem, arc
 - Architecture approach: governed Bronze/Silver/Gold model with explicit control boundaries and ADR-led decision flow.
 - Why it matters: shows architecture-to-delivery leadership for a high-scrutiny fraud domain.
 
-### 2) Cloud Data Platform Modernisation
-
-- Repository: [cloud-data-platform-modernisation](https://github.com/paulkarikari/cloud-data-platform-modernisation)
-- Problem solved: duplicated data integration patterns and inconsistent platform controls across teams.
-- Architecture approach: standardized platform blueprint with governance controls, operating model clarity, and phased modernization strategy.
-- Why it matters: shows enterprise-scale target-state planning and migration structure.
-
-### 3) Enterprise Unity Catalog Rollout
-
-- Repository: [enterprise-unity-catalog-rollout](https://github.com/paulkarikari/enterprise-unity-catalog-rollout)
-- Problem solved: inconsistent access control and stewardship across workspaces and data domains.
-- Architecture approach: enterprise Unity Catalog onboarding model with policy-driven governance, lineage discipline, and phased control rollout.
-- Why it matters: shows how governance operating models are translated into practical platform standards.
-
-### 4) Fraud Scoring on Databricks Azure
-
-- Repository: [fraud-scoring-on-databricks-azure](https://github.com/paulkarikari/fraud-scoring-on-databricks-azure)
-- Problem solved: fraud scoring workloads lacked consistent quality controls and production-grade governance.
-- Architecture approach: domain-specific scoring architecture with quality gates, control-by-design, and clear operating boundaries.
-- Why it matters: shows how scoring workloads can be governed without slowing delivery.
-
-### 5) Tier1 Bank Risk Reporting
-
-- Repository: [tier1-bank-risk-reporting](https://github.com/paulkarikari/tier1-bank-risk-reporting)
-- Problem solved: regulatory risk reporting pipelines were difficult to trust, reconcile, and evidence.
-- Architecture approach: governed risk reporting architecture with explicit ownership, assurance evidence planning, and readiness gates.
-- Why it matters: shows regulatory-grade architecture discipline for tier1 banking reporting.
 
 ## My Decision Framework
 

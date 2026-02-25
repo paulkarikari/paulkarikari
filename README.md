@@ -1,9 +1,10 @@
 # Paul Karikari
 
-**Principal Engineer & Solution Architect- Data & AI  | Azure Databricks | Financial Services**
+**Principal Engineer & Solution Architect- Data & AI  | Databricks | Financial Services**
 
 [LinkedIn](https://uk.linkedin.com/in/paulkarikari)
 
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Databricks Certified](https://img.shields.io/badge/Databricks-Certified-FF3621?logo=databricks&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
@@ -73,7 +74,7 @@ This is the pack I use to keep work review-ready and implementation-focused: [so
 
 ## How I Can Help
 
-If you are scaling Azure Databricks in a regulated environment, I can help with:
+If you are scaling  Databricks in a regulated environment, I can help with:
 
 - defining target architecture and getting it review-ready for architecture, security, and risk forums
 - embedding governance and controls directly into platform and data workflows
